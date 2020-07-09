@@ -1,4 +1,4 @@
-<h1 align="center">Simple Nodejs w/ middleware</h1>
+<h1 align="center">Nodejs backend project</h1>
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/cristianmenguer/simple-nodejs?color=%FF9000">
 
